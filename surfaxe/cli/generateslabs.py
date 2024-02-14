@@ -75,7 +75,7 @@ def _get_parser():
     help='Format of output files (default: poscar)')
     parser.add_argument('--name', default='POSCAR', type=str, 
     help='Name of the surface slab structure file created (default: POSCAR)')
-    parser.add_argument('--config-dict', default='PBEsol_config.json', 
+    parser.add_argument('--config-dict', default='PBEsol.json', 
     dest='config_dict', 
     help='Specifies the dictionary used for the generation of the input files')
     parser.add_argument('-i', '--incar', default=None,
