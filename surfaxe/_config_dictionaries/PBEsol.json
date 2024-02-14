@@ -116,5 +116,6 @@
         "Yb": "Yb_2",
         "Zn": "Zn",
         "Zr": "Zr_sv"
-    }
+    },
+    "POTCAR_FUNCTIONAL": "PBE_54"
 }
